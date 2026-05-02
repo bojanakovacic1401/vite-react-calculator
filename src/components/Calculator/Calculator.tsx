@@ -37,7 +37,7 @@ export function Calculator() {
   return (
     <section className="calculator" aria-label="Kalkulator">
       <div className="calculator__header">
-        <h1>Mini kalkulator</h1>
+        <h1>Kalkulator</h1>
         <p>Unesite dva broja i izaberite matematičku operaciju.</p>
       </div>
 
