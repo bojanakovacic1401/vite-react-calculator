@@ -37,7 +37,6 @@ export function Calculator() {
   return (
     <section className="calculator" aria-label="Kalkulator">
       <div className="calculator__header">
-        <p className="calculator__eyebrow">React + Vite + TypeScript</p>
         <h1>Mini kalkulator</h1>
         <p>Unesite dva broja i izaberite matematičku operaciju.</p>
       </div>
