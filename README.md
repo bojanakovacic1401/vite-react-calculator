@@ -4,7 +4,7 @@ Jednostavna web aplikacija kalkulatora napravljena pomoću React, Vite i TypeScr
 
 ## Live demo
 
-https://vite-react-calculator-pi.vercel.app/
+https://vite-react-calculator-gold.vercel.app/
 
 ## Opis projekta
 
